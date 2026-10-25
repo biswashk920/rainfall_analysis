@@ -1,0 +1,22 @@
+pair,dist_km,Winter,Pre-monsoon,Monsoon,Post-monsoon
+Pokhara Airport - Lamachaur,9,0.66,0.7,0.64,0.7
+Bandipur - Damauli,14,0.39,0.37,0.37,0.38
+Lumle - Lamachaur,15,0.58,0.6,0.53,0.56
+Sikles - Lamachaur,17,0.44,0.39,0.35,0.48
+Kunchha - Damauli,19,0.31,0.4,0.36,0.48
+Pokhara Airport - Sikles,20,0.49,0.43,0.34,0.52
+Kunchha - Bandipur,21,0.27,0.3,0.26,0.36
+Pokhara Airport - Lumle,23,0.69,0.73,0.5,0.58
+Lumle - Sikles,29,0.55,0.4,0.45,0.49
+Pokhara Airport - Kunchha,33,0.36,0.42,0.42,0.44
+Pokhara Airport - Damauli,34,0.57,0.56,0.42,0.43
+Kunchha - Sikles,35,0.28,0.31,0.26,0.34
+Kunchha - Lamachaur,40,0.33,0.37,0.33,0.38
+Damauli - Lamachaur,43,0.54,0.46,0.3,0.37
+Damauli - Sikles,45,0.36,0.32,0.23,0.31
+Pokhara Airport - Bandipur,47,0.4,0.36,0.28,0.31
+Kunchha - Lumle,55,0.33,0.37,0.3,0.36
+Bandipur - Sikles,55,0.26,0.26,0.21,0.27
+Bandipur - Lamachaur,56,0.37,0.32,0.23,0.29
+Lumle - Damauli,57,0.52,0.46,0.3,0.38
+Bandipur - Lumle,70,0.32,0.31,0.24,0.3

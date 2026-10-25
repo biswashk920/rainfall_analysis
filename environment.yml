@@ -1,0 +1,20 @@
+name: rainfall
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - xgboost
+  - shap
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - pyarrow
+  - xarray
+  - netcdf4
+  - ipykernel
+  - jupyter
+  - pip

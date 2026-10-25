@@ -1,0 +1,43 @@
+station,start,end,action,reason,valid_days,mm_in_period,year
+Bandipur,1992-10-01,1992-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,1992
+Bandipur,1995-03-01,1995-03-31,mask,"ratio 0.27, zero share 0.97",31,7.2,1995
+Bandipur,1996-06-01,1996-06-30,flag,"ratio 0.28, zero share 0.73",30,100.4,1996
+Bandipur,1998-04-01,1998-04-30,mask,"ratio 0.10, zero share 0.93",30,10.0,1998
+Bandipur,1998-07-01,1998-07-31,flag,"ratio 0.23, zero share 0.74",31,101.8,1998
+Bandipur,1998-08-01,1998-08-31,flag,"ratio 0.19, zero share 0.77",31,78.7,1998
+Bandipur,1998-09-01,1998-09-30,mask,"ratio 0.16, zero share 0.87",30,35.3,1998
+Bandipur,1998-10-01,1998-10-31,mask,"ratio 0.06, zero share 0.97",31,5.2,1998
+Bandipur,2010-10-01,2010-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,2010
+Bandipur,2012-10-01,2012-10-31,mask,"ratio 0.00, zero share 0.97",31,0.2,2012
+Bandipur,2013-09-01,2013-09-30,mask,"ratio 0.13, zero share 0.90",30,17.7,2013
+Bandipur,2014-05-01,2014-05-31,mask,"ratio 0.24, zero share 0.87",31,20.3,2014
+Bandipur,2017-04-01,2017-04-30,mask,"ratio 0.25, zero share 0.87",30,29.4,2017
+Bandipur,2017-05-01,2017-05-31,flag,"ratio 0.21, zero share 0.58",31,33.9,2017
+Bandipur,2017-08-01,2017-08-31,flag,"ratio 0.28, zero share 0.74",31,69.6,2017
+Bandipur,2017-10-01,2017-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,2017
+Bandipur,2019-10-01,2019-10-31,mask,"ratio 0.13, zero share 0.94",31,8.9,2019
+Damauli,1993-10-01,1993-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,1993
+Damauli,1994-10-01,1994-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,1994
+Damauli,2001-10-01,2001-10-31,mask,"ratio 0.20, zero share 0.87",31,12.5,2001
+Damauli,2004-04-01,2004-04-30,mask,"ratio 0.01, zero share 0.93",30,1.4,2004
+Damauli,2006-10-01,2006-10-31,mask,"ratio 0.06, zero share 0.90",31,2.8,2006
+Damauli,2012-10-01,2012-10-31,mask,"ratio 0.25, zero share 0.97",31,8.2,2012
+Damauli,2013-09-01,2013-09-30,mask,"ratio 0.13, zero share 0.93",30,15.3,2013
+Damauli,2016-10-01,2016-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,2016
+Damauli,2017-09-01,2017-09-30,mask,"ratio 0.11, zero share 0.93",30,15.4,2017
+Damauli,2017-10-01,2017-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,2017
+Damauli,2019-10-01,2019-10-31,mask,"ratio 0.15, zero share 0.97",31,8.0,2019
+Kunchha,1994-10-01,1994-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,1994
+Kunchha,1995-04-01,1995-04-30,mask,"ratio 0.30, zero share 0.87",30,20.8,1995
+Kunchha,2012-10-01,2012-10-31,mask,"ratio 0.17, zero share 0.97",31,10.2,2012
+Kunchha,2013-09-01,2013-09-30,mask,"ratio 0.21, zero share 0.90",30,51.1,2013
+Kunchha,2017-10-01,2017-10-31,mask,"ratio 0.21, zero share 0.97",31,21.3,2017
+Kunchha,2019-10-01,2019-10-31,mask,"ratio 0.00, zero share 1.00",31,0.0,2019
+Kunchha,2023-04-01,2023-04-30,mask,"ratio 0.27, zero share 0.93",30,16.7,2023
+Lamachaur (lam_only),1972-01-01,1973-01-06,mask,372-day zero run; 1972 total 0 mm,372,0.0,1972
+Lamachaur (lam_only),2004-07-01,2004-07-31,mask,"ratio 0.12, zero share 0.97",31,126.0,2004
+Lumle,2012-05-01,2012-05-31,mask,"ratio 0.30, zero share 0.87",31,59.2,2012
+Lumle,2021-04-01,2021-04-30,flag,"ratio 0.29, zero share 0.77",30,31.3,2021
+Pokhara Airport,1990-04-01,1990-04-30,flag,"ratio 0.24, zero share 0.67",30,44.8,1990
+Sikles,2002-10-01,2002-10-31,flag,"ratio 0.21, zero share 0.81",31,25.1,2002
+Sikles,2009-08-29,2009-08-29,flag,99 mm while the other six stations read 0 to 1.3 mm,1,99.0,2009
